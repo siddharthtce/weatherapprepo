@@ -2,10 +2,7 @@
 # pip install -r requirements.txt (for bulk installation)
 # Even if we don't provide version, the latest version will get installed
 
-Flask=1.1.2
-gunicorn=20.0.4 #For Cloud Environment
-requests=2.24.0
+Flask
+gunicorn #For Cloud Environment
+requests
 
-
-
-#2.26.00
